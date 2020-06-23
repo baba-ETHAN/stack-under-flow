@@ -1,0 +1,16 @@
+[
+    {
+        "name":"STACK UNDERFLOW",
+        "components":["Questions","Jobs","Dev Jobs Directory","Salary Calculator","Help","Mobile","Disable Responsiveness"]
+    },
+    {
+        "name":"PRODUCTS",
+        "components":["Teams","Talent","Advertising","Enterprise"]
+    },  {
+        "name":"COMPANY",
+        "components":["About","Press","Work Here","Legal","Privacy Policy","Contact Us"]
+    },  {
+        "name":"STACK EXCHANGE NETWORK",
+        "components":["Technology","Life/Arts","Culture/Recreation","Science","Other"]
+    }
+]

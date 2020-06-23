@@ -1,0 +1,17 @@
+[
+    {
+        "name":"AJ Ferron",
+        "comment":"Is the JSON you pasted in your question being read into the python program, or is it a dictionary that you want to convert to JSON?",
+        "time":"1 min ago"
+    },
+    {
+        "name":"Tyler H ",
+        "comment":"We would need to see your values and how you get them to be able to help you insert them into json",
+        "time":"1 min ago"
+    },
+    {
+        "name":"Vas23Vewe",
+        "comment":"Being read (using load)",
+        "time":"1 min ago"
+    }
+]

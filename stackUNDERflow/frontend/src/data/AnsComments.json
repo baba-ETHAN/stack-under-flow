@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Vas23Vewe",
+        "comment":"Keys already exist. I want to add values to existed keys",
+        "time":"3 mins ago"
+    },
+    {
+        "name":"un random",
+        "comment":"my_dict = read_data('file.json') for key, value in zip(my_dict.keys(), your_values): my_dict[key] = value  dump_data(my_dict) ",
+        "time":"1 min ago"
+    },
+    {
+        "name":"Vas23Vewe",
+        "comment":"Read - to take data FROM JSON, I want to add data TO JSON",
+        "time":"1 min ago"
+    }
+]

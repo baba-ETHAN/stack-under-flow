@@ -1,0 +1,93 @@
+.sideNav{
+    width: 15%;
+    position: absolute;
+}
+
+.mainContainer{
+    margin-left: 15%;
+}
+
+.smallFonts{
+    font-size: 60%;
+    font-weight: 400;
+}
+
+.sideMenu.navbar-nav{
+    
+    display: none;
+}
+
+.title{
+    font-size: 12px;
+    color: rgb(0,119,2014);
+    font-weight: 700;
+
+}
+
+.company{
+    font-size: 12px;
+    color: rgb(133,140,147);
+    font-weight: 700;
+    opacity: 0.8;
+}
+
+.location{
+    font-size: 12px;
+    color: rgb(133,140,147);
+    
+    opacity: 0.8;
+    font-style: italic;
+}
+
+span.badge.badge-primary{
+    background-color: lightblue;
+    color: darkslategray;
+    font-weight: 600;
+}
+
+span.badge.badge-success{
+    font-size: 12px;
+    color: white;
+    
+    margin-top: 10px;
+}
+.foot{
+    background-color: black;
+    color: dimgrey;
+    cursor: pointer;
+    padding:10px 10px 10px 10px;
+    font-size: 14px;
+    overflow-x: hidden;
+    
+}
+
+.element:hover{
+    color: lightgrey;
+}
+
+
+.listMenu{
+    font-size: 15px;
+}
+
+.listMenu:hover{
+    font-weight: 700;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+    .sideNav{
+        width: 0%;
+        position: absolute;
+        display: none;
+    }
+    
+    .mainContainer{
+        margin-left: 0%;
+    }
+
+    .sideMenu.navbar-nav{
+    
+        display: flex;
+    }
+}
